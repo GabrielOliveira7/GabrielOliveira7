@@ -1,4 +1,4 @@
-### Olá, bem vindo, eu sou o Gabriel Eduardo👋
+### Olá, bem vindo, eu sou o Gabriel👋
 
 <div> 
     <a href="https://www.linkedin.com/in/gabriel-oliveira-a4567b211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
