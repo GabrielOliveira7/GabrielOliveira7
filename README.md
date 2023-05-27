@@ -1,5 +1,5 @@
-### Olá, eu sou o Gabriel Eduardo👋
-Bem vindo ao meu perfil!
+### Olá, bem vindo, eu sou o Gabriel Eduardo👋
+
 <div> 
     <a href="https://www.linkedin.com/in/gabriel-oliveira-a4567b211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/imnotjappa?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
