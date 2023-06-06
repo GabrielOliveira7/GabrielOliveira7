@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou Gabriel Eduardo <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"> </h1>
 
 <div align="center">
-<img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)" alt="Coder GIF" width="500"> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coder GIF" width="500"> 
 </div>
 
 <div align="center">
