@@ -1,12 +1,4 @@
-### Olá, bem vindo, eu sou o Gabriel👋
-
-<div> 
-    <a href="https://www.linkedin.com/in/gabriel-oliveira-a4567b211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/imnotjappa?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "<mailto:gabrieleduardobiel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<h1 align="center"> Olá, eu sou Victor Freitas <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"> </h1>
+<h1 align="center"> Olá, eu sou Gabriel Eduardo <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"> </h1>
 
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> 
