@@ -10,7 +10,3 @@
     <a href="https://t.me/gabrieloliveira_7" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
       
 <div align="center">
-
- # ![Snake animation](https://github.com/VictorFreitass1/VictorFreitass1/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
